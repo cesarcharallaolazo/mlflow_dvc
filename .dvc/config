@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-ccho
+['remote "dvc-ccho"']
+    url = /Users/user/Documents/docs_cesar/other_repos/mlflow_dvc/external_storage
