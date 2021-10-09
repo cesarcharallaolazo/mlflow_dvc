@@ -35,6 +35,7 @@ Mlflow and Dvc and with docker
 - reproduce dataset versions with dvc-api in: train.py
 - train.py contains all mlflow tracking
 - take a look in deploy-script.sh how to run mlflow server as a docker container
+- go to mlflow-ui y look logged params, in my case: http://localhost:7755
 
 #### Notes to spin-up a mlflow docker container
 - create docker network: docker network create cesar_net
